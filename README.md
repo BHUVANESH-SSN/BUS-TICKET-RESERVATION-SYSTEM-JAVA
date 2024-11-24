@@ -88,13 +88,16 @@ This is a **console-based application** with an intuitive interface for seamless
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Bus-Ticket-Reservation-System.git
+   git clone https://github.com/BHUVANESH-SSN/BUS-TICKET-RESERVATION-SYSTEM-JAVA.git
 
 2.cd Bus-Ticket-Reservation-System
 
 3. javac *.java
 
 4. java Main
+
+
+
 
 
    
